@@ -1,0 +1,9 @@
+{
+  "name": "GestãoPro ERP",
+  "description": "A comprehensive construction management ERP mobile application featuring dashboards, project tracking, supply management, and daily reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
